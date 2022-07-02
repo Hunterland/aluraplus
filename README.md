@@ -1,6 +1,6 @@
 # aluraplus
 
-Projeto feito pela plataforma de estudo da Alura
+o projeto foi criado a fins para prática nos estudos da plataforma alura
 
 Tecnologias Usadas:
 - HTML
