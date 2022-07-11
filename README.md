@@ -1,4 +1,4 @@
-# aluraplus
+# Aluraplus
 
 O projeto foi criado no intuito de praticar os conhecimentos adquiridos da plataforma alura voltado para área de desenvolvimento de landingpages.
 
