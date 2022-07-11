@@ -11,5 +11,5 @@ Tecnologias Usadas:
 <h1>CSS</h1>
  - Metodologia BEM<br>
  - váriáveis nativas
-
+<br>
 link: https://hunterland.github.io/aluraplus/
