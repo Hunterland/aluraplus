@@ -1,6 +1,6 @@
 # aluraplus
 
-o projeto foi criado a fins para prática nos estudos da plataforma alura
+o projeto foi criado a fins para prática nos estudos da plataforma alura para exercitar os conhecimentos voltado ao desenvolvimento de landingpages.
 
 Tecnologias Usadas:
 
