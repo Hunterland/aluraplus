@@ -5,11 +5,11 @@ o projeto foi criado a fins para prática nos estudos da plataforma alura
 Tecnologias Usadas:
 
 <h1>HTML</h1>
- - código documentado
+ - código documentado<br>
  - utilização de tags semânticas
 
 <h1>CSS</h1>
- - Metodologia BEM
+ - Metodologia BEM<br>
  - váriáveis nativas
 
 link: https://hunterland.github.io/aluraplus/
